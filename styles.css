@@ -1,0 +1,12 @@
+h1 {
+    font-family: "Lucida Console", monospace;
+    font-size: 24px;
+    text-align: center;
+    color: #900C3F;
+}
+
+nav {
+    font-family: Arial;
+    text-align: end;
+    margin-right: 1em;
+}
